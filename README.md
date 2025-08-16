@@ -1,5 +1,10 @@
 # Automated-Quotes-Sender
 
+### 📧 Automated Quote Sender
+
+An automated email sender that delivers inspirational quotes to recipients using SMTP (Simple Mail Transfer Protocol).
+This project is designed to showcase automation with Python and SMTP for email delivery.
+
 ## 📢 Connect with Me
 If you found this project helpful or have any suggestions, feel free to connect:
 
